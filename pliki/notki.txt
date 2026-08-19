@@ -1,0 +1,38 @@
+http://sdi.gdos.gov.pl/wms - formy ochrony przyrody
+Źródła WMS:
+https://geoportal.lodzkie.pl/gprest/wmts/UMWL_GLEB_ROL_ras - mapy glebowo-rolnicze w lodzkim
+
+https://geoportal.lodzkie.pl/gprest/wmts/UMWL_GLEB_ROL_wek - to co wyzej tylko wektorowa
+
+https://www.gov.pl/web/gdos/dostep-do-danych-geoprzestrzennych - shp od gdoś
+
+https://dane.gov.pl/pl/dataset/925/resource/20627,ewidencja-gruntow-i-budynkow-usuga-wms/table - ewidencja budynkow i gruntow gugik
+
+https://mapy.geoportal.gov.pl/wss/service/PZGIK/NMT/GRID1/WMS/Hypsometry
+
+https://mapy.geoportal.gov.pl/wss/service/pub/guest/G2_SKOROWIDZE_HYDRO/MapServer/WMSServer
+
+https://mapy.geoportal.gov.pl/imap/Imgp_2.html?SRS=2180&resources=map:wms@https://integracja.gugik.gov.pl/cgi-bin/KrajowaIntegracjaEwidencjiGruntow
+
+https://mapy.geoportal.gov.pl/imap/Imgp_2.html?SRS=2180&resources=map:wms@https://integracja.gugik.gov.pl/cgi-bin/KrajowaIntegracjaUzbrojeniaTerenu
+
+----------------------
+Notki z raportu w podobnej tematyce:
+
+Raport o ocenie oddziaływania na środowisko farmy fotowoltaicznej Kotuń
+
+Kotuń - wieś w wielkopolskim, niedaleko Piły
+
+Dokument z 2021
+
+Farma budowana przez lightsource bp
+
+Farma ma moc 10 mega wato peaków
+
+Farma jest zbudowana na powierzchni równej
+
+Farma będzie mieć mały wpływ na środowisko
+
+Największe zużycie środowiska przez farmę będzie w trakcie jej budowy bądź likwidacji, jednakże szkody będą niezbyt wielkie i tymczasowe.
+
+Największym problemem będzie jej halas powodowany przez transformator, jednakże poprzez zastosowanie izolacji akustycznej dźwięk nie będzie przekraczać dopuszczonej normy

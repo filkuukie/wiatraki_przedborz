@@ -1,0 +1,40 @@
+odleglosc od zabudowan mieszkalnych:
+700m
+parki narodowe:
+10 krotnosc wysokosci wiatraka i lopatek (czyli wg przecietnej wysokosci wiatrakow 1800-2000m)
+rezerwat przyrody:
+500m
+inne formy przyrody:
+???
+
+jakosc gleb pod wiatraki:
+Klasa IVa i b – gleby orne średnie. ...
+Klasa V – gleby orne słabe. ...
+Klasa VI – gleby orne najsłabsze. ... 
+i nieuzytki
+
+Linia elektroenergetyczna lub stacja elektroenergetyczna w pobliżu (Odległość od linii średniego napięcia do 500 m)
+
+Dostęp do drogi publicznej
+
+Teren płaski lub nachylony w kierunku południowym
+
+Bez zadrzewień i innych elementów zacieniających powierzchnię działki
+
+Teren niezalewowy, niezadrzewiony, bez rowów melioracyjnych
+
+glebokosc do wod podziemnych:
+od 1-20m na mapie hydrograficznej do projektu
+
+glebokosc wody podziemnej:
+od 1.5 do 7 albo 3.5 metrow (wyzej juz nie)
+
+polozenie wiatraka na zboczu:
+Thus, 5° pitch angle is optimum for a wind turbine when the operating velocity is 7 m/s for optimum power generation.
+
+https://www.sciencedirect.com/science/article/pii/S221509861500155X#:~:text=Thus%2C%205%C2%B0%20pitch%20angle,s%20for%20optimum%20power%20generation.
+
+instalowanie i utrzymywanie wiatrakow na zboczach moze sie wydawac nieco trudniejsze, jednakze efektywnosc tak zainstalowanego wiatraka wzrasta o srednio 25% przez uksztaltowany teren
+
+klimat:
+http://www.wiking.edu.pl/article.php?subject=Geografia&id=36

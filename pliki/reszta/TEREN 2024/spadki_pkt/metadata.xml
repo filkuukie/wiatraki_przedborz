@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="pl"><Esri><CreaDate>20230105</CreaDate><CreaTime>11261000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20230105" Time="112610">Reclassify spadki VALUE "0 1 5;1 2 4;2 5 3;5 10 2;10 27 1" "C:\Users\Ania\OneDrive - Uniwersytet Łódzki\TEREN\spadki_pkt" DATA</Process></lineage></DataProperties></Esri></metadata>
